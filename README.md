@@ -8,15 +8,13 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **Js**
 
 - 🤝 I’m looking for help with **Php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/crysosancher](https://github.com/crysosancher)
 
-- 💬 Ask me about **Js**
+- 💬 Ask me about **Js,C++,PHP**
 
 - 📫 How to reach me **vibhupandey.vp@gmail.com**
 

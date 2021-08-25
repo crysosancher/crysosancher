@@ -21,7 +21,6 @@
 - ⚡ Fun fact **Not a Nerd**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crysosancher&theme=dark)](https://github.com/crysosancher/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>

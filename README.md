@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crysosancher&label=Profile%20views&color=0e75b6&style=flat" alt="crysosancher" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React** and **NodeJs**
 
-- 👯 I’m looking to collaborate on **Js**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 🤝 I’m looking for help with **Php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/crysosancher](https://github.com/crysosancher)
 
-- 💬 Ask me about **Js,C++,PHP**
+- 💬 Ask me about **NodeJs,C++,PHP**
 
 - 📫 How to reach me **vibhupandey.vp@gmail.com**
 

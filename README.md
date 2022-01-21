@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crysosancher&label=Profile%20views&color=0e75b6&style=flat" alt="crysosancher" /> </p>
 
-- 🔭 I’m currently working on **React** and **NodeJs**
+- 🔭 I’m currently working on **Express** and **NodeJs**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 🤝 I’m looking for help with **Php**
+- 🤝 I’m looking for help with **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/crysosancher](https://github.com/crysosancher)
 

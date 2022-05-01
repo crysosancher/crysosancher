@@ -17,7 +17,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code>
+<!-- <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code> -->
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </div>
 <hr>

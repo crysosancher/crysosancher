@@ -1,6 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Yanone+Kaffeesatz&color=40cfcd&size=64&center=true&vCenter=true&width=1000&height=200&lines=Hi+%F0%9F%91%8B%2C+I'm+Vibhu%2C;A+passionate+full+stack+developer+from+India.)](https://git.io/typing-svg)
+<p align="center">
+<!--  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=crysosancher&theme=react&background=0d1117&border=666">
+  </a> -->
+  <br>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crysosancher&layout=compact&theme=github_dark&border=666">
+  </a>
+  <br>
+  <br>
+<!--   <a href="https://github.com/warunicorn19/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=crysosancher&theme=react-dark&hide_border=true">
+  </a> -->
+</p>
 
-<h3 align="center" style="color=#40cfcd;">Languages and Tools:</h3>
+
+<!-- <h3 align="center" style="color=#40cfcd;">Languages and Tools:</h3>
 <div align="center">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
@@ -18,30 +34,28 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
 <!-- <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"></code> -->
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<!-- <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
 </div>
-<hr>
+<hr> -->
 <!-- <div align=center>
  
 ![Me](https://c.tenor.com/twB7JJB2OD0AAAAM/spiderman-save-the-day-deadpool-saves-the-day.gif)
 ### Me ⬆</div>
 <h3 align="center">A passionate full-Stack Developer from India</h3> -->
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=crysosancher&label=Profile%20views&color=0e75b6&style=flat" alt="crysosancher" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=crysosancher&label=Profile%20views&color=0e75b6&style=flat" alt="crysosancher" /> </p>
 
-- 🔭 I’m currently working on **Express** and **NodeJs**
+- 🔭 I’m currently working on **TypeScript** and **Rest Api**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Chat Gpt Project**
 
 - 🤝 I’m looking for help with **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/crysosancher](https://github.com/crysosancher)
 
-- 💬 Ask me about **NodeJs,C++,PHP**
-
 - 📫 How to reach me **vibhupandey.vp@gmail.com**
 
-- ⚡ Fun fact **Not a Nerd** -->
+- ⚡ Fun fact **Not a Nerd**
 
 
 
@@ -72,16 +86,16 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crysosancher&" alt="crysosancher" /></p>
  -->
 <!--   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crysosancher&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="crysosancher" /></p  -->
-<a href="https://github.com/warunicorn19/github-readme-activity-graph">
+<!-- <a href="https://github.com/warunicorn19/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=crysosancher&theme=react-dark&hide_border=true">
-  </a>
+  </a> -->
   
-  <h3 align = "center">📬 Contact Me:</h3>
+<!--   <h3 align = "center">📬 Contact Me:</h3>
 <p align='middle'>
 <a href="https://fb.com/vibhu padney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vibhu padney" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_viratpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_viratpandey" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/vibhu-pandey-963173203/" target="blank"><img align="center" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png" height="40"width="40" /></a>
  
-</p>
+</p> -->
  
 <!-- ![Cryso's GitHub stats](https://github-readme-stats.vercel.app/api?username=crysosancher&theme=radical&show_icons=true&count_private=true&include_all_commits=true) -->

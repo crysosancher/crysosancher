@@ -51,7 +51,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vibhu-pandey-963173203/](https://github.com/crysosancher)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bit.ly/crysosancher)
 
 - 📫 How to reach me **vibhupandey.vp@gmail.com**
 

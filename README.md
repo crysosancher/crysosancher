@@ -45,11 +45,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crysosancher&label=Profile%20views&color=0e75b6&style=flat" alt="crysosancher" /> </p>
 
-- 🔭 I’m currently working on **TypeScript** and **Rest Api**
+- 🔭 I’m currently working on **TypeScript** and **GraphQl Api**
 
 - 👯 I’m looking to collaborate on **Chat Gpt Project**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **NEST Js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bit.ly/crysosancher)
 

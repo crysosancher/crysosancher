@@ -49,7 +49,7 @@
 
 - 👯 I’m looking to collaborate on **Chat Gpt Project**
 
-- 🤝 I’m looking for help with **NEST Js**
+- 🤝 I’m looking for help with **Nest Js**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://bit.ly/crysosancher)
 
